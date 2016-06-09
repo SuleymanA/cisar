@@ -17,7 +17,7 @@ module CSREditor {
 
             var webparts = [];
             var wp_properties = [];
-            var wpqId = 2;
+            var wpqId = 1;
 
             if (GetUrlKeyValue("PageView") == "Personal") {
                 window["g_Cisar_JSLinkUrls"] = "personal";
